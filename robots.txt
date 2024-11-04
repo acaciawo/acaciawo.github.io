@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://acaciawo.github.io/EGg/sitemap_index.txt
+Sitemap: https://acaciawo.github.io/XDH/sitemap_index.txt
+Sitemap: https://acaciawo.github.io/ZBk/sitemap_index.txt
+Sitemap: https://acaciawo.github.io/flo/sitemap_index.txt
